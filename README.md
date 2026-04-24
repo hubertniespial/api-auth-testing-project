@@ -35,6 +35,30 @@ Celem było sprawdzenie, czy:
 
 ---
 
+## Screenshoty
+
+### Logowanie – poprawne dane
+<img width="1495" height="922" alt="image" src="https://github.com/user-attachments/assets/64402685-7139-48c5-a5b0-d003c9f18b3b" />
+<img width="1495" height="922" alt="image" src="https://github.com/user-attachments/assets/21a10b70-0713-46e3-ba8c-c10cac0b541b" />
+
+### Logowanie – błędne dane
+<img width="1495" height="922" alt="image" src="https://github.com/user-attachments/assets/42182c54-1ad5-47ac-9b07-e48601c5af2d" />
+<img width="1495" height="922" alt="image" src="https://github.com/user-attachments/assets/c8a93683-c9bc-4b6d-b365-e5face82a6bb" />
+
+### Operacja z poprawnym tokenem
+<img width="1495" height="922" alt="image" src="https://github.com/user-attachments/assets/feb1223e-fb78-4ff2-b6eb-e3f98d1ec34d" />
+
+### Operacja bez tokena
+<img width="1495" height="922" alt="image" src="https://github.com/user-attachments/assets/67424c4b-0d58-439e-83c7-218b2161368e" />
+
+### Operacja z niepoprawnym tokenem
+<img width="1495" height="922" alt="image" src="https://github.com/user-attachments/assets/2781f3da-559b-43dd-929d-4e8b6a119898" />
+<img width="1495" height="922" alt="image" src="https://github.com/user-attachments/assets/95a9c0af-34ca-40ad-a1f7-c43be703a0ce" />
+<img width="1495" height="922" alt="image" src="https://github.com/user-attachments/assets/af157ddb-099c-4eb2-998d-fadde568cc53" />
+
+
+---
+
 ## Uwagi
 
 - API wykorzystuje uproszczony mechanizm autoryzacji – token przekazywany jest w nagłówku `Authorization` jako `Basic`, co nie jest standardowym podejściem (w praktyce stosuje się najczęściej Bearer token).
